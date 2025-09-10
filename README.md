@@ -43,6 +43,12 @@ Estoy abierto a colaborar en proyectos relacionados con:
 
 ---
 
-## 📊 GitHub Stats  
-![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelCD1&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCD1&layout=compact)  
+## 📊 GitHub Stats
+![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelCD1&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCD1&layout=compact)
+
+<!-- Otra estética (dark theme) -->
+![GitHub Stats (dark)](https://github-readme-stats.vercel.app/api?username=AngelCD1&show_icons=true&theme=dark)
+
+<!-- Stats con iconos y contadores privados -->
+![GitHub Stats (all commits)](https://github-readme-stats.vercel.app/api?username=AngelCD1&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
