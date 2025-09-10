@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ángel de Jesús Corporán Díaz  
 
-<!--
-**AngelCD1/AngelCD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de Aplicaciones Multiplataforma** | 🔐 **Entusiasta de la Ciberseguridad** | ⚡ **Backend Developer (PHP)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí  
+- 🎯 Apasionado por crear **soluciones innovadoras y escalables**.  
+- 🔭 Actualmente trabajando en proyectos con **PHP, Laravel, Flutter y APIs REST**.  
+- 🌱 Siempre aprendiendo más sobre **seguridad informática y hacking ético**.  
+- 👯 Abierto a colaborar en proyectos de **software libre, startups y aplicaciones web/móviles**.  
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes**: PHP, JavaScript, Dart, Python  
+- **Frameworks**: Laravel, Flutter, Node.js  
+- **Bases de datos**: MySQL, PostgreSQL, SQLite  
+- **Otros**: Git, Docker, Linux, APIs REST  
+
+---
+
+### 📫 Cómo contactarme
+- 📧 Email: **[tuemail@ejemplo.com]**  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](#)  
+- 🌐 Portafolio: [tusitio.com](#)  
+
+---
+
+### ⚡ Fun fact  
+Me gusta explorar nuevas tecnologías, experimentar con **automatización** y **ciberseguridad**, y siempre busco mejorar mis proyectos con las mejores prácticas.  
+
+---
+
+⭐️ _Si te interesa colaborar o tienes una idea de proyecto, no dudes en escribirme._  
