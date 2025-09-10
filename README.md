@@ -1,35 +1,48 @@
-# 👋 ¡Hola! Soy Ángel de Jesús Corporán Díaz  
+# 👋 Hola, soy Ángel de Jesús Corporán Díaz  
 
-💻 **Desarrollador de Aplicaciones Multiplataforma** | 🔐 **Entusiasta de la Ciberseguridad** | ⚡ **Backend Developer (PHP)**  
-
----
-
-### 🚀 Sobre mí  
-- 🎯 Apasionado por crear **soluciones innovadoras y escalables**.  
-- 🔭 Actualmente trabajando en proyectos con **PHP, Laravel, Flutter y APIs REST**.  
-- 🌱 Siempre aprendiendo más sobre **seguridad informática y hacking ético**.  
-- 👯 Abierto a colaborar en proyectos de **software libre, startups y aplicaciones web/móviles**.  
+💻 *Desarrollador de aplicaciones multiplataforma*  
+⚙ *Programador backend especializado en PHP*  
+🔐 Con conocimientos en *hacking ético*  
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-- **Lenguajes**: PHP, JavaScript, Dart, Python  
-- **Frameworks**: Laravel, Flutter, Node.js  
-- **Bases de datos**: MySQL, PostgreSQL, SQLite  
-- **Otros**: Git, Docker, Linux, APIs REST  
+## 📖 Acerca de mí  
+Soy un profesional enfocado en el desarrollo de soluciones tecnológicas que combinan eficiencia, seguridad y escalabilidad.  
+Tengo experiencia en el diseño y la implementación de aplicaciones multiplataforma, así como en la programación backend, principalmente con *PHP*.  
+Además, he estudiado *hacking ético*, lo que me permite tener una visión integral en cuanto a la seguridad y robustez de los sistemas.  
 
 ---
 
-### 📫 Cómo contactarme
-- 📧 Email: **[tuemail@ejemplo.com]**  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](#)  
-- 🌐 Portafolio: [tusitio.com](#)  
+## 🚀 Competencias  
+- *Lenguajes:* PHP, JavaScript, SQL  
+- *Frameworks & Herramientas:* Laravel, Node.js, Git, Docker  
+- *Bases de datos:* MySQL, PostgreSQL  
+- *Otras áreas:* Seguridad informática, buenas prácticas de desarrollo, metodologías ágiles  
 
 ---
 
-### ⚡ Fun fact  
-Me gusta explorar nuevas tecnologías, experimentar con **automatización** y **ciberseguridad**, y siempre busco mejorar mis proyectos con las mejores prácticas.  
+## 🌱 Actualmente aprendiendo  
+- Técnicas avanzadas de *ciberseguridad*  
+- Mejores prácticas en *arquitecturas backend escalables*  
+- Integración de nuevas tecnologías en entornos multiplataforma  
 
 ---
 
-⭐️ _Si te interesa colaborar o tienes una idea de proyecto, no dudes en escribirme._  
+## 🤝 Intereses de colaboración  
+Estoy abierto a colaborar en proyectos relacionados con:  
+- Desarrollo backend y APIs  
+- Aplicaciones multiplataforma  
+- Seguridad informática y auditorías técnicas  
+
+---
+
+## 📫 Contacto  
+- ✉ *Correo:* ()  
+- 💼 *LinkedIn:* ()  
+- 🌐 *Portafolio:* (https://angelcd1.github.io/Portfolio/)  
+
+---
+
+## 📊 GitHub Stats  
+![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelCD1&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCD1&layout=compact)  
